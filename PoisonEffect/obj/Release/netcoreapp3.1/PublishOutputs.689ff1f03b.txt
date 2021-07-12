@@ -1,0 +1,5 @@
+C:\Users\nuvem\OneDrive\Documents\Programming\CSharp\PoisonEffect\PoisonEffect\bin\Release\netcoreapp3.1\publish\PoisonEffect.exe
+C:\Users\nuvem\OneDrive\Documents\Programming\CSharp\PoisonEffect\PoisonEffect\bin\Release\netcoreapp3.1\publish\PoisonEffect.dll
+C:\Users\nuvem\OneDrive\Documents\Programming\CSharp\PoisonEffect\PoisonEffect\bin\Release\netcoreapp3.1\publish\PoisonEffect.deps.json
+C:\Users\nuvem\OneDrive\Documents\Programming\CSharp\PoisonEffect\PoisonEffect\bin\Release\netcoreapp3.1\publish\PoisonEffect.runtimeconfig.json
+C:\Users\nuvem\OneDrive\Documents\Programming\CSharp\PoisonEffect\PoisonEffect\bin\Release\netcoreapp3.1\publish\PoisonEffect.pdb

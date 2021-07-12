@@ -1,0 +1,13 @@
+C:\Users\nuvem\OneDrive\Documents\Programming\CSharp\PoisonEffect\PoisonEffect\bin\Debug\netcoreapp3.1\PoisonEffect.exe
+C:\Users\nuvem\OneDrive\Documents\Programming\CSharp\PoisonEffect\PoisonEffect\bin\Debug\netcoreapp3.1\PoisonEffect.deps.json
+C:\Users\nuvem\OneDrive\Documents\Programming\CSharp\PoisonEffect\PoisonEffect\bin\Debug\netcoreapp3.1\PoisonEffect.runtimeconfig.json
+C:\Users\nuvem\OneDrive\Documents\Programming\CSharp\PoisonEffect\PoisonEffect\bin\Debug\netcoreapp3.1\PoisonEffect.runtimeconfig.dev.json
+C:\Users\nuvem\OneDrive\Documents\Programming\CSharp\PoisonEffect\PoisonEffect\bin\Debug\netcoreapp3.1\PoisonEffect.dll
+C:\Users\nuvem\OneDrive\Documents\Programming\CSharp\PoisonEffect\PoisonEffect\bin\Debug\netcoreapp3.1\PoisonEffect.pdb
+C:\Users\nuvem\OneDrive\Documents\Programming\CSharp\PoisonEffect\PoisonEffect\obj\Debug\netcoreapp3.1\PoisonEffect.csproj.AssemblyReference.cache
+C:\Users\nuvem\OneDrive\Documents\Programming\CSharp\PoisonEffect\PoisonEffect\obj\Debug\netcoreapp3.1\PoisonEffect.AssemblyInfoInputs.cache
+C:\Users\nuvem\OneDrive\Documents\Programming\CSharp\PoisonEffect\PoisonEffect\obj\Debug\netcoreapp3.1\PoisonEffect.AssemblyInfo.cs
+C:\Users\nuvem\OneDrive\Documents\Programming\CSharp\PoisonEffect\PoisonEffect\obj\Debug\netcoreapp3.1\PoisonEffect.csproj.CoreCompileInputs.cache
+C:\Users\nuvem\OneDrive\Documents\Programming\CSharp\PoisonEffect\PoisonEffect\obj\Debug\netcoreapp3.1\PoisonEffect.dll
+C:\Users\nuvem\OneDrive\Documents\Programming\CSharp\PoisonEffect\PoisonEffect\obj\Debug\netcoreapp3.1\PoisonEffect.pdb
+C:\Users\nuvem\OneDrive\Documents\Programming\CSharp\PoisonEffect\PoisonEffect\obj\Debug\netcoreapp3.1\PoisonEffect.genruntimeconfig.cache
